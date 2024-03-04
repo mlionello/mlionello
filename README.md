@@ -1,16 +1,79 @@
-### Hi there 👋
+# Matteo Lionello - Machine Learning & Audio Enthusiast
 
-<!--
-**mlionello/mlionello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Student | 🎙️ Audio Explorer | 🤖 Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Matteo Lionello, a passionate researcher and developer specializing in the intersection of machine learning, deep learning, audio technologies and neuroimaging. Currently pursuing my Ph.D. in Cognitive, Computational, and Social Neuroscience at IMT Lucca, I have a diverse background that spans urban soundscapes, music technology, and computer science.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/matteo-lionello-393756110/) | 🌐 [Personal Website](https://www.matteolionello.com)
+
+## Education and Experience
+
+- **Ph.D. Student, IMT Lucca**
+  - *Cognitive, Computational, and Social Neuroscience*
+
+- **MPhil, The Bartlett Institute, UCL**
+  - *Thesis: A new methodology for modeling urban soundscapes*
+
+- **MSc in Sound and Music Computing, Aalborg University**
+  - *Thesis: Deep Learning for Sounds Representation and Generation*
+
+- **BSc in Information Engineering, University of Padova**
+  - *Thesis: Interactive Soundscapes*
+
+## Technical Skills
+
+- **Programming Languages:**
+```
+ 1. Python       ██████████████░░
+ 2. Matlab       ██████████████░░
+ 3. Unix         ███████████░░░░░
+ 4. Java         ██████████░░░░░░
+ 5. C++          ████░░░░░░░░░░░░
+```
+- **Libraries:**
+```
+ 1. Tensorflow          █████████████░░░
+ 2. Pytorch             █████████████░░░
+ 3. Keras               ██████████░░░░░░
+ 4. Pytorch Lightning   ████░░░░░░░░░░░░
+```
+**Other skills** (unranked):
+  - **Protocols:** OpenSoundsControl (OSC) and TCP/IP
+  - **Databases:** Basic knowledge of SQL and MySQL
+  - **Tools:** AFNI, PureData, Android, HTML, CSS, and tiny bit of PhP
+
+## Projects
+
+### 🚀 Real-time Audio Enhancement
+
+Audio quality enhancement and real-time audio denoising, developed as part of a project for a private company.
+
+### 🏙️ Urban Soundscape Index Modeling
+
+- Developed a Bayesian-NN for individual soundscape assessment predictions.
+- Psychometric revisitation of the ISO protocol for soundscape measuring.
+
+### 🎻 Violin Vibes Maestro
+
+Collaborated with the Music Technology Group at Universitat Pompeu Fabra, Barcelona, on a machine learning approach to violin vibrato modeling. Developed a GUI on Android for real-time pitch detection.
+
+### 🎶 LSTM Groove Generator
+
+Implemented LSTM modeling for melody and rhythmic structure extraction and generation during my time at Aalborg University.
+
+### 🌌 Variational Autoencoder Serenade
+
+Developed an end-to-end dilated variational autoencoder for sound morphing using TensorFlow.
+
+### 🎨 Artistic Sonic Space Odyssey
+
+  - Created an interactive soundscape-augmented space at the University of Padua, inspired by Truax's work. Used granular synthesis to reproduce a collage of sounds referring to a real soundscape.
+
+  - Participated in a competitive workshop at Aalborg University, developing solutions for a new lighting-sound system at the AAU University bridge.
+
+
+## Contact
+
+Drop me a message on [LinkedIn](https://www.linkedin.com/in/matteo-lionello-393756110/) or swing by my [Website](https://www.matteolionello.com) for all the details on my audio escapades!
