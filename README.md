@@ -26,18 +26,18 @@ I am Matteo Lionello, a passionate researcher and developer specializing in the 
 
 - **Programming Languages:**
 ```
- 1. Python       ██████████████░░
- 2. Matlab       ██████████████░░
- 3. Unix         ███████████░░░░░
- 4. Java         ██████████░░░░░░
- 5. C++          ████░░░░░░░░░░░░
+ 1. rwx Python       ██████████████░░
+ 2. rwx Matlab       ██████████████░░
+ 3. rwx Unix         ███████████░░░░░
+ 4. rwx Java         ██████████░░░░░░
+ 5. r-x C++          ████░░░░░░░░░░░░
 ```
 - **Libraries:**
 ```
- 1. Tensorflow          █████████████░░░
- 2. Pytorch             █████████████░░░
- 3. Keras               ██████████░░░░░░
- 4. Pytorch Lightning   ████░░░░░░░░░░░░
+ 1. rwx Tensorflow          █████████████░░░
+ 2. rwx Pytorch             █████████████░░░
+ 3. rwx Keras               ██████████░░░░░░
+ 4. r-x Pytorch Lightning   ████░░░░░░░░░░░░
 ```
 **Other skills** (unranked):
   - **Protocols:** OpenSoundsControl (OSC) and TCP/IP
