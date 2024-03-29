@@ -42,7 +42,7 @@ I am Matteo Lionello, a passionate researcher and developer specializing in the 
 **Other skills** (unranked):
   - **Protocols:** OpenSoundsControl (OSC) and TCP/IP
   - **Databases:** Basic knowledge of SQL and MySQL
-  - **Tools:** AFNI, PureData, Android, HTML, CSS, and tiny bit of PhP
+  - **Tools:** AFNI, Git, PureData, Android, HTML, CSS, and tiny bit of PhP
 
 ## Projects
 
