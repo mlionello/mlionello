@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am Matteo Lionello, a passionate researcher and developer specializing in the intersection of machine learning, deep learning, audio technologies and neuroimaging. Currently pursuing my Ph.D. in Cognitive, Computational, and Social Neuroscience at IMT Lucca, I have a diverse background that spans urban soundscapes, music technology, and computer science.
+I am Matteo Lionello, a passionate researcher and developer specializing in the intersection of machine learning, deep learning, audio technologies and neuroimaging. Currently, I am working in Cognitive, Computational, and Social Neuroscience at IMT Lucca, I have a diverse background that spans urban soundscapes, music technology, and computer science.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/matteo-lionello-393756110/) | 🌐 [Personal Website](https://www.matteolionello.com)
 
