@@ -1,6 +1,6 @@
 # Matteo Lionello - Machine Learning & Audio Enthusiast
 
-🎓 PhD Student | 🎙️ Audio Explorer | 🤖 Machine Learning Enthusiast
+🎙️ Audio Explorer | 🤖 Machine Learning Enthusiast
 
 ## About Me
 
