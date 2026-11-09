@@ -6,11 +6,11 @@ I'm a researcher in **machine learning, audio and computational neuroscience**. 
 
 ## About
 
-My research asks how the brain encodes the acoustic and emotional content of music during naturalistic listening, and how extra-musical context, such as a program note, changes what listeners feel. I did my PhD on this at the IMT School for Advanced Studies Lucca (2022–2025), and in 2025 I was a visiting researcher in Robert Zatorre's lab at The Neuro (McGill University), working with EEG and TMS.
+My research asks how the brain encodes the acoustic and emotional content of music during naturalistic listening, and how extra-musical context, such as a program note, changes what listeners feel. I did my PhD on this at the IMT School for Advanced Studies Lucca, and I was a visiting researcher in Robert Zatorre's lab at The Neuro (McGill University), working with EEG and TMS.
 
-Before neuroscience, I worked on machine learning for audio: real-time denoising for industry, generative models for sound, urban soundscape modelling at UCL, and music recommendation.
+Before neuroscience, I worked on machine learning for audio: real-time denoising for industry, generative models for sound, urban soundscape modeling at UCL, and music recommendation.
 
-🔭 **Now (2026):** independent researcher, with four papers on music, emotion, brain connectivity and group-level statistics under review or in preparation.
+🔭 **Now (2026):** independent researcher, with four papers on music, emotion, brain connectivity, and group-level statistics under review or in preparation.
 
 ## Research and code
 
@@ -59,12 +59,12 @@ r-x  C++ · JavaScript · PHP · SQL
 
 ## Background
 
-- **PhD**, Cognitive, Computational and Social Neuroscience · IMT School for Advanced Studies Lucca (2022–2025)
-- **Visiting researcher**, Auditory Cognitive Neuroscience Lab · The Neuro, McGill University (2025)
-- **ML research consultant**, audio applications for private companies, UK (2021–2022)
-- **MPhil**, urban soundscape modelling · The Bartlett, UCL (2018–2021)
-- **MSc**, Sound and Music Computing · Aalborg University (2016–2018)
-- **BSc**, Information Engineering · University of Padova (2011–2015)
+- **PhD**, Cognitive, Computational and Social Neuroscience · IMT School for Advanced Studies Lucca
+- **Visiting researcher**, Auditory Cognitive Neuroscience Lab · The Neuro, McGill University
+- **ML research consultant**, audio applications for private companies, UK
+- **MPhil**, urban soundscape modelling · The Bartlett, UCL
+- **MSc**, Sound and Music Computing · Aalborg University
+- **BSc**, Information Engineering · University of Padova
 
 ---
 
