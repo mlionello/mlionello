@@ -1,27 +1,75 @@
-# Matteo Lionello - Machine Learning & Audio Enthusiast
+# Hi, I'm Matteo 👋
 
-🎙️ Audio Explorer | 🤖 Machine Learning Enthusiast
+I'm a researcher in **machine learning, audio and computational neuroscience**. I build machine learning models for audio, and study what happens in the brain when we listen to music.
 
-## About Me
+🌐 [Website](https://www.matteolionello.com) · 📚 [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) · 🆔 [ORCID](https://orcid.org/0000-0003-1559-2398) · 💼 [LinkedIn](https://www.linkedin.com/in/matteo-lionello-393756110/)
 
-I am Matteo Lionello, a passionate researcher and developer specializing in the intersection of machine learning, deep learning, audio technologies and neuroimaging. Currently, I am working in Cognitive, Computational, and Social Neuroscience at IMT Lucca, I have a diverse background that spans urban soundscapes, music technology, and computer science.
+## About
 
-🔗 [LinkedIn](https://www.linkedin.com/in/matteo-lionello-393756110/) | 🌐 [Personal Website](https://www.matteolionello.com)
+My research asks how the brain encodes the acoustic and emotional content of music during naturalistic listening, and how extra-musical context, such as a program note, changes what listeners feel. I did my PhD on this at the IMT School for Advanced Studies Lucca (2022–2025), and in 2025 I was a visiting researcher in Robert Zatorre's lab at The Neuro (McGill University), working with EEG and TMS.
 
-## Education and Experience
+Before neuroscience, I worked on machine learning for audio: real-time denoising for industry, generative models for sound, urban soundscape modelling at UCL, and music recommendation.
 
-- **Ph.D. Student, IMT Lucca**
-  - *Cognitive, Computational, and Social Neuroscience*
+🔭 **Now (2026):** independent researcher, with four papers on music, emotion, brain connectivity and group-level statistics under review or in preparation.
 
-- **MPhil, The Bartlett Institute, UCL**
-  - *Thesis: A new methodology for modeling urban soundscapes*
+## Research and code
 
-- **MSc in Sound and Music Computing, Aalborg University**
-  - *Thesis: Deep Learning for Sounds Representation and Generation*
+<!-- Link each project name to its repo, e.g. **[BOSS](https://github.com/mlionello/REPO_NAME)** -->
 
-- **BSc in Information Engineering, University of Padova**
-  - *Thesis: Interactive Soundscapes*
+**🧠 Brain and music**
 
+- **BOSS (Brain Orchestra Synchronization Study)**: a framework for modelling how the acoustic and emotional features of music shape brain connectivity during naturalistic listening.
+- **Non-parametric combination (NPC) for group-level inference**: permutation-based group statistics, taken from simulations to validation, with Luca Cecchetti.
+- **NeuroInfer**: Bayesian inference on the links between cognitive processes and brain activations, using meta-analytic fMRI data. Co-led with [@davidecrc](https://github.com/davidecrc) at BrainHack Lucca 2023.
+
+**🎧 Machine learning for audio**
+
+- **Real-time audio denoising**: audio enhancement systems built for a private company.
+- **Soundscape modelling**: Bayesian neural networks that predict individual soundscape assessments, and a psychometric revisit of the ISO 12913 soundscape protocol (MPhil, UCL).
+- **Variational autoencoders for sound**: an end-to-end dilated VAE for sound morphing and representation learning (MSc, Aalborg).
+- **Music recommendation**: neural-network parametric t-SNE and a browser GUI for music streaming services, with MoodAgent in Copenhagen.
+- **Violin vibrato modelling**: machine learning for expressive vibrato in real-time performance, plus an Android app for real-time pitch detection (TELMI project, Music Technology Group, UPF Barcelona).
+- **LSTM groove generator**: LSTMs that extract and generate melodic and rhythmic structure (MSc, Aalborg).
+- **[Interactive soundscapes](https://github.com/mlionello/InteractiveSoundscape)**: an augmented space where walking around reshapes a granular-synthesis collage of a real soundscape, inspired by Barry Truax (BSc, Padova).
+
+## Community and teaching
+
+- 🧑‍🏫 Instructor of the Git & GitHub workshop at [BrainHack Lucca](https://github.com/brainhacklucca) (2024–2026)
+- 🛠️ Organizer of BrainHack Lucca (2023–2025)
+- 🔍 Reviewer for JASA, Neurocomputing, EPJ, Quality & Quantity and Building Simulation
+
+## Publications and patents
+
+- 📚 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
+- 📄 Co-inventor on a patent family: [US 2024/0290337 A1](https://patents.google.com/patent/US20240290337A1), with GB, WO, CN and EP filings
+
+## Toolbox
+
+```text
+rwx  Python · MATLAB · Bash · Java
+r-x  C++ · JavaScript · PHP · SQL
+```
+
+<sub>rwx: read, write, run · r-x: read and run</sub>
+
+- **ML and audio:** PyTorch · PyTorch Lightning · TensorFlow · Asteroid · OpenAI API
+- **Neuroimaging:** AFNI · SPM
+- **Tools:** Git & GitHub · LaTeX · Pure Data · Android SDK · Claude Code
+- **Protocols:** OSC · TCP/IP
+
+## Background
+
+- **PhD**, Cognitive, Computational and Social Neuroscience · IMT School for Advanced Studies Lucca (2022–2025)
+- **Visiting researcher**, Auditory Cognitive Neuroscience Lab · The Neuro, McGill University (2025)
+- **ML research consultant**, audio applications for private companies, UK (2021–2022)
+- **MPhil**, urban soundscape modelling · The Bartlett, UCL (2018–2021)
+- **MSc**, Sound and Music Computing · Aalborg University (2016–2018)
+- **BSc**, Information Engineering · University of Padova (2011–2015)
+
+---
+
+📫 Always happy to talk about music, brains and audio ML: reach me through my [website](https://www.matteolionello.com) or [LinkedIn](https://www.linkedin.com/in/matteo-lionello-393756110/).
+<!--
 ## Technical Skills
 
 - **Programming Languages:**
@@ -43,37 +91,5 @@ I am Matteo Lionello, a passionate researcher and developer specializing in the 
   - **Protocols:** OpenSoundsControl (OSC) and TCP/IP
   - **Databases:** Basic knowledge of SQL and MySQL
   - **Tools:** AFNI, Git, PureData, Android, HTML, CSS, and tiny bit of PhP
+-->
 
-## Projects
-
-### 🚀 Real-time Audio Enhancement
-
-Audio quality enhancement and real-time audio denoising, developed as part of a project for a private company.
-
-### 🏙️ Urban Soundscape Index Modeling
-
-- Developed a Bayesian-NN for individual soundscape assessment predictions.
-- Psychometric revisitation of the ISO protocol for soundscape measuring.
-
-### 🎻 Violin Vibes Maestro
-
-Collaborated with the Music Technology Group at Universitat Pompeu Fabra, Barcelona, on a machine learning approach to violin vibrato modeling. Developed a GUI on Android for real-time pitch detection.
-
-### 🎶 LSTM Groove Generator
-
-Implemented LSTM modeling for melody and rhythmic structure extraction and generation during my time at Aalborg University.
-
-### 🌌 Variational Autoencoder Serenade
-
-Developed an end-to-end dilated variational autoencoder for sound morphing using TensorFlow.
-
-### 🎨 Artistic Sonic Space Odyssey
-
-  - Created an interactive soundscape-augmented space at the University of Padua, inspired by Truax's work. Used granular synthesis to reproduce a collage of sounds referring to a real soundscape.
-
-  - Participated in a competitive workshop at Aalborg University, developing solutions for a new lighting-sound system at the AAU University bridge.
-
-
-## Contact
-
-Drop me a message on [LinkedIn](https://www.linkedin.com/in/matteo-lionello-393756110/) or swing by my [Website](https://www.matteolionello.com) for all the details on my audio escapades!
